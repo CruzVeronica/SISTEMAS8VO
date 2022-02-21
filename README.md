@@ -1,2 +1,2 @@
 # SISTEMAS8VO
-Autor VeronicaCruz
+Practicas con el grupo de Ing. Sistemas 8vo semestre de 2022
